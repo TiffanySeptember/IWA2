@@ -1,3 +1,5 @@
+//CHALLENGE 1
+
 /* This is the firstname of the user */
 
 const user = "John";
@@ -8,12 +10,15 @@ console.log(user + " " + surname);
 
 /** (c) ACME Inc. 2010 */
 
+//    CHALLENGE 2
 /*
  * This is the date that a user created their account
  */
 const date = "10/07/2014";
 
 console.log(date);
+
+//CHALLENGE 3
 
 /* 
 It is important to show the following message in order to:
